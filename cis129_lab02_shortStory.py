@@ -4,4 +4,4 @@
 print('There was once a cat named Ash.')
 print('He was grey and he wanted to make cash')
 print('Ash was afraid of snakes, so he learned java.')
-print('As soon as he saw the python, the floor turned to lava.")
+print('As soon as he saw the python, the floor turned to lava.')
